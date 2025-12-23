@@ -1,0 +1,53 @@
+# MENA Signal - Source Registry
+# Focused on AI Funding News only
+
+sources:
+  # AI & Tech Funding News
+  - name: TechCrunch AI
+    type: rss
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: funding
+    enabled: true
+
+  - name: VentureBeat AI
+    type: rss
+    url: https://venturebeat.com/category/ai/feed/
+    category: funding
+    enabled: true
+
+  - name: Crunchbase News
+    type: rss
+    url: https://news.crunchbase.com/feed/
+    category: funding
+    enabled: true
+
+  - name: AI News
+    type: rss
+    url: https://www.artificialintelligence-news.com/feed/
+    category: funding
+    enabled: true
+
+  - name: TechCrunch Startups
+    type: rss
+    url: https://techcrunch.com/category/startups/feed/
+    category: funding
+    enabled: true
+
+  - name: SiliconANGLE
+    type: rss
+    url: https://siliconangle.com/category/ai/feed/
+    category: funding
+    enabled: true
+
+  # MENA-focused funding news
+  - name: Wamda
+    type: rss
+    url: https://www.wamda.com/feed
+    category: funding
+    enabled: true
+
+  - name: Magnitt
+    type: rss
+    url: https://magnitt.com/feed
+    category: funding
+    enabled: true
