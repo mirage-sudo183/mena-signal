@@ -1,2 +1,0 @@
-# MENA Signal Backend
-
